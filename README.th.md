@@ -1,13 +1,12 @@
 # CPS Counter
 
-
-**Thai Language :** [README.th.md](README.th.md)
+**English Language :** [README.eng.md](README.md)
 
 ## Project About
-- Add-on for counting clicks per second (CPS), counting left-clicks and right-clicks, Left-clicks only count when hitting an entity or hitting a block. Right-click will count only when you place a block, you can modify or add listener event at "CPS Counter/scripts/listeners".
+- แอดออนสำหรับนับจำนวนคลิกต่อวินาที(CPS), นับจำนวนคลิกซ้ายและคลิกขวา, คลิกซ้ายจะนับก็ต่อเมื่อตีเอนทิตี้หรือตีบล็อค คลิกขวาจะนับก็ต่อเมื่อคุณวางบล็อค, คุณสามารถแก้ไขหรือเพิ่ม listener event ได้ที่ "CPS Counter/scripts/listeners".
 
 ## Project Info
-- This project is GameTest, so it can be used on mobile or computer. This project is developed with TypeScript (ts) and compiled into JavaScript (js).
+- โปรเจคนี้เป็น GameTest เพื่อสามารถใช้ได้มือถือหรือคอม โปรเจคนี้พัฒนาขึ้นด้วยภาษา TypeScript (ts) แล้วแปลงเป็นภาษา JavaScript (js)
 
 ## Project Developer
 - 👨‍💻 Developer : `wuw.sh (pain)`
