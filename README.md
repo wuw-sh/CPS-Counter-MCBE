@@ -4,7 +4,7 @@
 **Thai Language :** [README.th.md](README.th.md)
 
 ## Project About
-- Add-on for counting clicks per second (CPS), counting left-clicks and right-clicks, Left-clicks only count when hitting an entity or hitting a block. Right-click will count only when you place a block, you can modify or add listener event at "CPS Counter/scripts/listeners".
+- Add-on for counting clicks per second (CPS), counting left-clicks and right-clicks, Left-clicks only count when hitting an entity or hitting a block. Right-click will count only when you place a block, **you can modify or add listener event at `"CPS Counter/scripts/listeners"`**.
 
 ## Project Info
 - This project is GameTest, so it can be used on mobile or computer. This project is developed with TypeScript (ts) and compiled into JavaScript (js).
