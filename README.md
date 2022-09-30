@@ -1,4 +1,4 @@
-# CPS Counter
+# CPS Counter MCBE
 
 
 **Thai Language :** [README.th.md](README.th.md)
